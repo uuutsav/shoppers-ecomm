@@ -1,0 +1,23 @@
+img {
+    cursor: pointer;
+}
+
+.indexSort {
+    padding: 20px;
+}
+
+.indexSort p {
+    font-size: 18px;
+}
+
+.indexSort span {
+    font-weight: bold;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 100px;
+}
